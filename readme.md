@@ -1,4 +1,4 @@
-# Computer Vision to Classify Images
+# Classifying Multiclass Images with Computer Vision
 
 # Problem Statement and Background
 
